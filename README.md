@@ -11,5 +11,4 @@ import Enzyme from 'enzyne';
 Enzyme.configure({
     adapter: new Adapter(),
 });
-
 ```
