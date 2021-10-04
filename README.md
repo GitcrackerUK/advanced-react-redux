@@ -40,3 +40,7 @@ afterEach(() => {
 ```
 
 ```
+
+----
+added ssh key which is in ~/.ssh/github.pub
+----
