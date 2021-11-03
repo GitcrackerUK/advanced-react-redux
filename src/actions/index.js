@@ -6,7 +6,7 @@ export function saveComment(comment){
      payload : comment
    }
 }
-export function addUser(user){
+export function saveUser(user){
   return {
     type : ADD_USER,
     payload : user
